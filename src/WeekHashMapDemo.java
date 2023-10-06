@@ -12,6 +12,6 @@ public class WeekHashMapDemo {
 
         NavigableMap navigableMap = new TreeMap();
         System.out.println(navigableMap.headMap(0));
-        Hashtable
+        System.out.println("test");
     }
 }
